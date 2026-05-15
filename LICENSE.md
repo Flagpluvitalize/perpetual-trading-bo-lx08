@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with smart perpetual trading bot | slippage-control + API-integration, the #1 perpetual trading bot. Includes slippage-control and API-integration for a
 
 
 
